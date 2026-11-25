@@ -66,7 +66,7 @@
 
 0xpi is an independent software studio based in Seattle, Washington that builds AI‑powered tools for marketers, businesses, students, and buyers. Its product suite includes SDSentry for OSHA compliance, PantryPOS food‑pantry software, Ringback missed‑call text‑back, AdCreator AI for ads and SEO, AI Site Builder, Scholarize study tools, and Prime Reviews Pro. The company offers free trials and subscription pricing, with each product providing its own terms of service and privacy policy.
 
-**Areas:** AI · Tools · SEO · Software · Marketing · Education · Compliance
+**Areas:** Artificial Intelligence · Tools · SEO · Software · Marketing · Education · Compliance
 
 ## 0xpi-com on APIs.io
 
@@ -84,19 +84,19 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [0Xpi Com Domain Security](https://apis.io/security/0xpi-com/0xpi-com-domain-security/)
+- [0xpi-com Domain Security](https://apis.io/security/0xpi-com/0xpi-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [0Xpi Com Plans Pricing](https://apis.io/plans/0xpi-com/0xpi-com-plans-pricing/)
+- [0xpi-com Plans Pricing](https://apis.io/plans/0xpi-com/0xpi-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [0Xpi Com Rate Limits](https://apis.io/rate-limits/0xpi-com/0xpi-com-rate-limits/)
+- [0xpi-com Rate Limits](https://apis.io/rate-limits/0xpi-com/0xpi-com-rate-limits/)
 
 ## Where to find this API
 
@@ -112,25 +112,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.7** — emerging · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 19.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 66.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 31.0 |
-| Access clarity | 40.0 |
+| Access clarity | 38.3 |
 
-**Agent readiness 8.5** — agent-aware
+**Agent readiness 13.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -148,8 +148,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Education & Research
+**Regulatory alignment 7.3** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/0xpi-com/](https://apis.io/providers/0xpi-com/).
 
